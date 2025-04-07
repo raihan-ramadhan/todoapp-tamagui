@@ -1,0 +1,10 @@
+{
+  "name": "@my/types",
+  "version": "0.0.1",
+  "exports": {
+    "./src": "./index.tsx"
+  },
+  "private": true,
+  "types": "./src",
+  "main": "src/index.tsx"
+}
